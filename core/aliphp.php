@@ -10,7 +10,6 @@
  */ 
 namespace core;
 
-
 class aliphp{
 	
 	//不重复引用，定义一个静态成员属性
