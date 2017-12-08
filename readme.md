@@ -1,11 +1,11 @@
 ## aliphp 框架文件说明
 
 www	网站跟目录
+
+
 	┝app
 		┝controller 				应用控制器文件夹
 		┝views 					应用视图文件夹
-
-
 	┝core   核心框架
 		┝common  
 			┝ function.php     	函数
